@@ -1,0 +1,23 @@
+name: "Introducción a Probabilidad"
+output_dir: "."
+navbar:
+  title: "Introducción a Probabilidad"
+  right:
+    - text: "Probabilidad"
+      menu:
+        - text: "Introducción a la probabilidad"
+          href: PROBABILIDAD/PROBABILIDAD.html
+    - text: "Distribución de probabilidad"
+      menu:
+        - text: "Distribución de probabilidad"  
+          href: about.html
+    - icon: fab fa-github
+      href: https://github.com/JuanVindell81/JuanVindell81.github.io
+    
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html
