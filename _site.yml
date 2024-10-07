@@ -10,7 +10,7 @@ navbar:
     - text: "Distribución de probabilidad"
       menu:
         - text: "Distribución de probabilidad"  
-          href: about.html
+          href: DISTRIBUCION_PROBABILIDADES/DISTRIBUCION-DE-PROBABILIDADES.html
     - icon: fab fa-github
       href: https://github.com/JuanVindell81/JuanVindell81.github.io
     

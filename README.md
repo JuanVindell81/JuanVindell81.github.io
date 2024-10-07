@@ -8,7 +8,7 @@ El presente material es un ensayo que contiene material suficiente para poder te
 
 ## ¿Para quién?
 
-Está dirigido a estudiantes de las carreras de matemáticas, estadística y otras carreras científicas similares cuyos programas de estudio contemplen un curso semestral sobre el uso y aplicaciones de la probabilidad elemental.
+Está dirigido a estudiantes de las carrera de matemática, estadística y otras carreras científicas similares cuyos programas de estudio contemplen un curso semestral sobre el uso y aplicaciones de la probabilidad elemental.
 
 ## ¿Cómo?
 
