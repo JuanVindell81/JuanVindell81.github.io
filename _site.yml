@@ -1,7 +1,7 @@
-name: "Introducción a Probabilidad"
+name: "Introducción a la probabilidad"
 output_dir: "."
 navbar:
-  title: "Introducción a Probabilidad"
+  title: "Introducción a la probabilidad"
   right:
     - text: "Probabilidad"
       menu:
